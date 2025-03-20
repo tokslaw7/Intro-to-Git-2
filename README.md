@@ -49,6 +49,7 @@ Explaining the most important branches, what pipelines they trigger and how to u
 
 ### Branches
 * Main:
+* Develop:
 * Feature:
 * Bugfix:
 * etc...
